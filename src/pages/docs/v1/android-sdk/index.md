@@ -43,7 +43,7 @@ Install Paytm Android SDK using Android Studio and IntelliJ. To add the SDK to y
 
 ```java
 dependencies {
-	compile('com.paytm:pgplussdk:1.2.3') {
+	compile('com.paytm:pgplussdk:1.1.5') {
 		transitive = true; 
 	}
 }
